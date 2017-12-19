@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1098754768405",
+    "firebase_url": "https://barakallahiduas.firebaseio.com",
+    "project_id": "barakallahiduas",
+    "storage_bucket": "barakallahiduas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098754768405:android:6ea118ffa6f59430",
+        "android_client_info": {
+          "package_name": "com.hitesh_sahu.retailshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098754768405-6r8la0munvt0gi7bveefe0r6fradjlcb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hitesh_sahu.retailshop",
+            "certificate_hash": "0647d1445e67f600daac5fdb57519afd9bd5eddc"
+          }
+        },
+        {
+          "client_id": "1098754768405-i803v4pf53e08agsclm6td0f0b5j74oe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4iNf3fcMGRbPLFJZa3MdJQW8CoXSQ6tM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098754768405-i803v4pf53e08agsclm6td0f0b5j74oe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
